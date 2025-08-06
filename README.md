@@ -2,8 +2,8 @@
 
 🎓 Final-Year Bachelor of Advanced Computer Science @ Monash University  
 🚀 Software Development | Frontend Focused | Project Management | AI Enthusiast  
-🌏 Kuala Lumpur, Malaysia | Melbourne (Exchange @ Monash Clayton, 2025)  
-🧠 Passionate about building real-world impactful solutions & leading product teams
+📍 Kuala Lumpur, Malaysia | Melbourne (Exchange @ Monash Clayton, 2025)  
+💪 Passionate about building real-world impactful solutions & leading product teams
 
 ## 🔗 Connect with me
 <p align="left">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## 💼 Current Roles & Involvements
+## 💼 Current Roles
 
 **Monash University Malaysia**
 - *FIT2101 Software Engineering Unit Class Assistant*  
